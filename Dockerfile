@@ -1,4 +1,4 @@
-FROM maven:latest AS build
+FROM maven:3.8-openjdk-17-slim AS build
 COPY src /usr/src/app/src
 COPY pom.xml /usr/src/app
 COPY obo.sql /usr/src/app
