@@ -28,7 +28,7 @@ Các bước em đã làm:
 - Em chạy docker-compose down để xóa hết các image cũ rồi chạy lại lệnh up bên trên thì thành công:
 <img width="960" alt="result" src="https://user-images.githubusercontent.com/94212764/145722559-f49f48ee-014d-4df7-8415-b59c7918fe3b.png">
 
-- Đây là kích thước của image sau khi tối ưu ạ:
+- Đây là kích thước của container sau khi tối ưu ạ:
 <img width="960" alt="docker_size_after_opt" src="https://user-images.githubusercontent.com/94212764/145722570-ab1094cd-d505-442c-abf7-feb9d01eddf7.PNG">
 
 Em cảm ơn thầy đã đọc bài.
